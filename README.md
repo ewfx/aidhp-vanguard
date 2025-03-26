@@ -17,7 +17,7 @@
 This project provides hyper-personalized financial product recommendations based on user input. It helps users find the best credit cards, loans, and investment options tailored to their financial profiles.
 
 ## 🎥 Demo
-📹 [Video Demo](https://1drv.ms/v/c/0c36648e958aaad4/EV7U_BKcAb5Gq1oDLHS824gBl0s0zUN6W_loVzCTkvKKWw?e=7lCLZz) (if applicable)  
+📹 [Video Demo](https://drive.google.com/file/d/1Q-TB3iyKBKY61d6oExDLXHud-3aZ4SoL/view?usp=sharing) (if applicable)  
 
 
 ## 💡 Inspiration
