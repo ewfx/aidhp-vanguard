@@ -52,12 +52,16 @@ Managing personal finances can be overwhelming with countless financial products
    cd code/src
    python app.py
    ```
-The API will be available at http://127.0.0.1:5000
+   The API will be available at http://127.0.0.1:5000
 
 4. Run the Streamlit UI
 ```sh
   streamlit run app_ui.py
 ```
+   Now the UI is available at http://192.168.0.104:8501/
+   It looks like below, we need to use different sets of test data and verify the model
+   <img width="802" alt="image" src="https://github.com/user-attachments/assets/7d0b159a-0864-41e2-93f7-f76fb813a856" />
+
 
 ## 🏗️ Tech Stack
 - 🔹 Frontend: Streamlit
