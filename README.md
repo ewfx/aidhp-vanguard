@@ -51,8 +51,9 @@ Managing personal finances can be overwhelming with countless financial products
    ```sh
    cd code/src
    python app.py
-   
-The API will be available at http://127.0.0.1:5000.
+   ```
+The API will be available at http://127.0.0.1:5000
+
 4. Run the Streamlit UI
 ```sh
   streamlit run app_ui.py
