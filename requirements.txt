@@ -1,0 +1,17 @@
+# Backend (Flask)
+flask
+flask-cors
+
+# Frontend (Streamlit)
+streamlit
+
+# Machine Learning & Data Processing
+pandas
+numpy
+scikit-learn
+joblib
+
+# Additional Dependencies (if needed)
+requests
+matplotlib
+seaborn
