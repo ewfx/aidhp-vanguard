@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Hyper-Personalized Financial Product Recommendation System
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,47 +14,55 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+This project provides hyper-personalized financial product recommendations based on user input. It helps users find the best credit cards, loans, and investment options tailored to their financial profiles.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+📹 [Video Demo](https://1drv.ms/v/c/0c36648e958aaad4/EV7U_BKcAb5Gq1oDLHS824gBl0s0zUN6W_loVzCTkvKKWw?e=7lCLZz) (if applicable)  
 
-![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+Managing personal finances can be overwhelming with countless financial products available. This system simplifies the process by offering tailored recommendations based on the user’s financial habits and risk tolerance.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
-
+1. Predicts suitable financial products: credit cards, loans, and investment options.
+2. Takes user input: income, spending, job type, age, investment, savings, and risk tolerance.
+3. Provides real-time recommendations based on predefined business logic.
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+1. Backend: Flask-based API for financial recommendations.
+2. Frontend: Streamlit UI for user interaction.
+3. Model: A rule-based recommendation engine with machine learning potential.
+
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
-
+1. Ensuring personalized recommendations aligned with user financial goals.
+2. Handling different financial scenarios efficiently.
+3. UI optimization for a seamless user experience.
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ewfx/aidhp-vanguard
+   cd d aidhp-vanguard
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
-   ```
+   cd code/src
+   python app.py
+   
+The API will be available at http://127.0.0.1:5000.
+4. Run the Streamlit UI
+```sh
+  streamlit run app_ui.py
+```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: Streamlit
+- 🔹 Backend: Flask
+- 🔹 Database: CSV-based dataset (can be extended)
+- 🔹 Other: Python, Pandas, NumPy
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Suresh Kumar Batchu** - [GitHub](#)
