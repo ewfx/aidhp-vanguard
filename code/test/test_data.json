@@ -1,0 +1,38 @@
+[
+  {
+    "TotalIncome": 120000,
+    "TotalSpending": 50000,
+    "Investment": 30000,
+    "Savings": 20000,
+    "Age": 35,
+    "JobType": 1,
+    "RiskTolerance": 2
+  },
+  {
+    "TotalIncome": 70000,
+    "TotalSpending": 40000,
+    "Investment": 15000,
+    "Savings": 10000,
+    "Age": 28,
+    "JobType": 3,
+    "RiskTolerance": 1
+  },
+  {
+    "TotalIncome": 45000,
+    "TotalSpending": 30000,
+    "Investment": 5000,
+    "Savings": 5000,
+    "Age": 24,
+    "JobType": 2,
+    "RiskTolerance": 0
+  },
+  {
+    "TotalIncome": 200000,
+    "TotalSpending": 100000,
+    "Investment": 50000,
+    "Savings": 50000,
+    "Age": 45,
+    "JobType": 4,
+    "RiskTolerance": 2
+  }
+]
